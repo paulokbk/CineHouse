@@ -1,0 +1,35 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "Avatar",
+        "duracao": 2,
+        "atores": [
+            "Paulo",
+            "Kariny"
+        ],
+        "anoDeLancamento": 2009,
+        "emCartaz": false
+    },
+    {
+        "codigo": 2,
+        "titulo": "Vingadores: Ultimato",
+        "duracao": 3,
+        "atores": [
+            "Robert Downey Jr",
+            "Chris Evans"
+        ],
+        "anoDeLancamento": 2019,
+        "emCartaz": true
+    },
+    {
+        "codigo": 3,
+        "titulo": "A Mumia",
+        "duracao": 1.3,
+        "atores": [
+            "Paulo",
+            "Igor"
+        ],
+        "anoDeLancamento": 2009,
+        "emCartaz": false
+    }
+]
